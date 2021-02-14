@@ -1,0 +1,23 @@
+.circle{
+    width: 150px;
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 50%;
+    float: left;
+}
+
+
+#red-circle{
+    background-color: red;
+}
+
+#yellow-circle{
+    background-color: yellow;
+
+    
+}
+
+#blue-circle{
+        background-color: blue;
+
+}
